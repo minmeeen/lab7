@@ -5,7 +5,7 @@ int main()
 {
   char rank;
   cout << "Input your rank: ";
-  cin >> rank;
+  cin >> rank ;
   if(rank == 'S'){
   	cout << "You have received Super Ultra Rare Unit!!!\n";
   	rank ='A';
